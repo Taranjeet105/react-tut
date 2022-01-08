@@ -1,0 +1,10 @@
+.input, h1{
+  margin: auto;
+  text-align: center;
+}
+.main_div{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(113, 113, 161);
+  text-align: center;
+}
